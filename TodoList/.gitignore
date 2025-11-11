@@ -1,0 +1,12 @@
+//
+//  .gitignore
+//  TodoList
+//
+//  Created by Ebuka on 11/11/25.
+//
+
+//remove googleservice
+.plist
+
+//remove env files
+.env
